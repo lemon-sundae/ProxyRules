@@ -11,6 +11,9 @@ jobs:
     steps:
       - name: checkout actions
         uses: actions/checkout@v4
+        with:
+          ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
+          persist-credentials: true
       - uses: actions/setup-python@v5
         with:
             python-version: '3.9'
@@ -31,4 +34,5 @@ jobs:
       - name: push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.REPO_TOKEN }}
+          ssh: true
+          branch: ${{ github.ref }}
