@@ -1,5 +1,5 @@
 # gfw2pac
-Convert gfw_whitelist to pac every day.
+Convert gfwlist to QuantumultX conf file every day.
 ## Credits  
-- [gfw_whitelist](https://github.com/breakwa11/gfw_whitelist)  
+- [gewlist](https://github.com/gfwlist/gfwlist)
 - [genpac](https://github.com/JinnLynn/genpac)  
