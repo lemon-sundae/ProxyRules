@@ -1,4 +1,4 @@
-name: gfwlist2pac
+name: gfwlist2qtx
 
 on:
   workflow_dispatch:
@@ -18,7 +18,7 @@ jobs:
       - name: download genpac
         run: pip install -U genpac
 
-      - name: update pac
+      - name: update qtx
         run: genpac --format=qtx --qtx-no-direct --qtx-no-final -o gfwlist.conf
 
       - name: commit
