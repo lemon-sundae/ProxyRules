@@ -8,9 +8,6 @@ on:
 jobs:
   bot:
     runs-on: ubuntu-latest
-    permissions:                # Job-level permissions configuration starts here
-      contents: write           # 'write' access to repository contents
-      pull-requests: write      # 'write' access to pull requests
     steps:
       - name: checkout actions
         uses: actions/checkout@v4
@@ -26,8 +23,8 @@ jobs:
 
       - name: commit
         run: |
-            git config --global user.email 42291428+lemon-sundae@users.noreply.github.com
-            git config --global user.name lemon-sundae
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
             git add .
             git commit -m "update qtx" -a
 
