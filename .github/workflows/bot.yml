@@ -1,4 +1,4 @@
-name: gfwlist2qtx
+name: gfwlist2surge
 
 on:
   workflow_dispatch:
@@ -18,15 +18,15 @@ jobs:
       - name: download genpac
         run: pip install -U genpac
 
-      - name: update qtx
-        run: genpac --format=qtx --qtx-no-direct --qtx-no-final -o gfwlist.conf
+      - name: update surge
+        run: genpac --format=surge --surge-no-direct --surge-no-final -o gfwlist.conf
 
       - name: commit
         run: |
             git config --local user.email "42291428+lemon-sundae@users.noreply.github.com"
             git config --local user.name "lemon-sundae"
             git add .
-            git commit -m "update qtx" -a
+            git commit -m "update surge" -a
 
       - name: push changes
         uses: ad-m/github-push-action@master
