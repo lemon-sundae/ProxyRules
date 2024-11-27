@@ -19,8 +19,7 @@ jobs:
         run: pip install -U genpac
 
       - name: update surge
-        run: genpac --format=surge --surge-no-direct --surge-no-final -o gfwlist.conf
-
+        run: genpac --format=surge --surge-no-direct --surge-no-final -o gfwlist.txt && sed -i '4d' gfwlist.txt
       - name: commit
         run: |
             git config --local user.email "42291428+lemon-sundae@users.noreply.github.com"
