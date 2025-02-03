@@ -1,0 +1,15 @@
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.cn
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN,imgse.com
+DOMAIN,ax1x.com
+DOMAIN,loli.net
+DOMAIN,st.todesk.com
+DOMAIN,smtp.mail.me.com
+DOMAIN,smtp.gamil.com
+DOMAIN-SUFFIX,lineageos.org
+DOMAIN-SUFFIX,convertio.co
+DOMAIN-SUFFIX,convertio.me
+DOMAIN-SUFFIX,acgrip.com
+DOMAIN-SUFFIX,moegirl.org.cn
