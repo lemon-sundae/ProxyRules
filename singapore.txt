@@ -1,0 +1,1 @@
+DOMAIN,jumpg-webapi.tokyo-cdn.com
