@@ -13,3 +13,4 @@ DOMAIN-SUFFIX,convertio.co
 DOMAIN-SUFFIX,convertio.me
 DOMAIN-SUFFIX,acgrip.com
 DOMAIN-SUFFIX,moegirl.org.cn
+DOMAIN-SUFFIX,mypikpak.com
