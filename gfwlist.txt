@@ -1,6 +1,6 @@
 #! genpac 3.0.1 https://github.com/JinnLynn/genpac
-#! Generated: 2025-02-28 02:20:43
-#! GFWList: 2025-02-22 16:48:53 online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
+#! Generated: 2025-03-01 02:24:38
+#! GFWList: 2025-02-28 03:29:48 online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,030buy.com,PROXY
 DOMAIN-SUFFIX,0rz.tw,PROXY
@@ -732,6 +732,7 @@ DOMAIN-SUFFIX,brookings.edu,PROXY
 DOMAIN-SUFFIX,brucewang.net,PROXY
 DOMAIN-SUFFIX,brutaltgp.com,PROXY
 DOMAIN-SUFFIX,bsky.app,PROXY
+DOMAIN-SUFFIX,bsky.network,PROXY
 DOMAIN-SUFFIX,bsky.social,PROXY
 DOMAIN-SUFFIX,bt95.com,PROXY
 DOMAIN-SUFFIX,btaia.com,PROXY
