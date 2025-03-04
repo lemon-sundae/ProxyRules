@@ -7,7 +7,7 @@ DOMAIN,ax1x.com
 DOMAIN,loli.net
 DOMAIN,st.todesk.com
 DOMAIN,smtp.mail.me.com
-DOMAIN,smtp.gamil.com
+DOMAIN,smtp.gmail.com
 DOMAIN-SUFFIX,lineageos.org
 DOMAIN-SUFFIX,convertio.co
 DOMAIN-SUFFIX,convertio.me
