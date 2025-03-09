@@ -1,6 +1,6 @@
 #! genpac 3.0.1 https://github.com/JinnLynn/genpac
-#! Generated: 2025-03-08 01:57:47
-#! GFWList: 2025-03-08 01:22:12 online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
+#! Generated: 2025-03-09 02:02:41
+#! GFWList: 2025-03-08 03:02:43 online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,030buy.com,PROXY
 DOMAIN-SUFFIX,0rz.tw,PROXY
@@ -5574,6 +5574,7 @@ DOMAIN-SUFFIX,twitturly.com,PROXY
 DOMAIN-SUFFIX,twitvid.com,PROXY
 DOMAIN-SUFFIX,twitzap.com,PROXY
 DOMAIN-SUFFIX,twiyia.com,PROXY
+DOMAIN-SUFFIX,twkan.com,PROXY
 DOMAIN-SUFFIX,twnorth.org.tw,PROXY
 DOMAIN-SUFFIX,twreporter.org,PROXY
 DOMAIN-SUFFIX,twskype.com,PROXY
