@@ -9,7 +9,7 @@
         "smtp.mail.me.com",
         "smtp.gmail.com"
       ],
-      "domain-suffix": [
+      "domain_suffix": [
         "apple.com",
         "apple.cn",
         "steamcontent.com",
