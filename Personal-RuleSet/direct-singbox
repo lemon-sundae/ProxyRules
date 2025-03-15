@@ -1,0 +1,26 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "imgse.com",
+        "ax1x.com",
+        "loli.net",
+        "st.todesk.com",
+        "smtp.mail.me.com",
+        "smtp.gmail.com"
+      ],
+      "domain-suffix": [
+        "apple.com",
+        "apple.cn",
+        "steamcontent.com",
+        "steamserver.net",
+        "lineageos.org",
+        "convertio.co",
+        "convertio.me",
+        "acgrip.com",
+        "moegirl.org.cn",
+        "mypikpak.com"
+      ]
+    }
+  ]
+}
