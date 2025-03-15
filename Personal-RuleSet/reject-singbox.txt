@@ -2,7 +2,7 @@
   "rules": [
     {
       "domain_suffix": [
-        "microsoft.com"
+        "pincong.rocks"
       ]
     }
   ]
