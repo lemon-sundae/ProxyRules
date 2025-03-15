@@ -1,0 +1,9 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "jumpg-webapi.tokyo-cdn.com"
+      ]
+    }
+  ]
+}
